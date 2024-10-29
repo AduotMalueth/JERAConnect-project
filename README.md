@@ -1,14 +1,14 @@
 # JERAConnect-project
 ## JERAConnect Overview
 
-JERAConnect is a web application designed to enhance communication and interaction among coconut farmers and buyers in Ghana. The platform enables users to engage with one another through various features, fostering collaboration and building a supportive community.
+JERAConnect is a web application designed to enhance communication and interaction among coconut farmers, sellers, and buyers in Ghana. The platform enables users to engage with one another through various features, fostering collaboration and building a supportive community.
 
 ## Features
 **User Authentication**:
 Users can securely sign up for an account or log in to access the platform, ensuring that all transactions and communications are safe and private.
 
 **Posting**:
-Farmers and buyers can create and share posts that may include text and images, showcasing their products, needs, and experiences.
+Farmers, sellers, and buyers can create and share posts that may include text and images, showcasing their products, needs, and experiences.
 
 **Commenting**:
 Users can comment on posts, allowing for meaningful discussions and exchanges of information about coconut farming, pricing, and market trends.
@@ -21,8 +21,11 @@ Each user has a personal profile page where they can showcase their coconut prod
 
 ## Technologies Used
 **The front end of the application**: This is built using HTML, CSS, and JavaScript.
+
 **The back end**: This is developed using PHP.
+
 **The database**: This is managed using MySQL.
+
 **Version control**: This is handled through Git and GitHub.
 
 ## Installation Instructions
@@ -42,4 +45,4 @@ To set up JERAConnect, follow these steps:
 1. Engage with the platform by posting about coconut products, commenting on others' posts, liking content, and viewing user profiles.
 2. Community Engagement: Actively participate in the coconut farming community by creating content, sharing knowledge, and interacting with other farmers and buyers.
 ## Connecting Coconut Farmers and Buyers in Ghana
-JERAConnect specifically aims to bridge the gap between coconut farmers and buyers across Ghana. The platform provides a space for farmers to share their harvests, pricing, and availability while allowing buyers to find quality coconut products directly from the source. By facilitating direct communication, JERAConnect streamlines transactions and strengthens the agricultural community, helping both farmers and buyers succeed in their endeavours.
+JERAConnect specifically aims to bridge the gap between coconut farmers, sellers, and buyers across Ghana. The platform provides a space for farmers to share their harvests, pricing, and availability while allowing buyers to find quality coconut products directly from the source. By facilitating direct communication, JERAConnect streamlines transactions and strengthens the agricultural community, helping both farmers and buyers succeed in their endeavours.
